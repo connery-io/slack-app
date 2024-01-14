@@ -1,0 +1,13 @@
+dist
+node_modules
+test
+    .dockerignore
+    .eslintrc.js
+    .git
+    .gitignore
+    .prettierrc
+docker - compose.yml
+Dockerfile
+nest - cli.json
+README.md
+npm - debug.log

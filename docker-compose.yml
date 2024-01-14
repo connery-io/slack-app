@@ -1,0 +1,7 @@
+services:
+  runner:
+    build: .
+    ports:
+      - 80:80
+    env_file:
+      - .env
